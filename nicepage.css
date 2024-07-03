@@ -1,3 +1,10 @@
+.head {
+  display: block; 
+  text-align: center;
+  padding-top: 30px; 
+}
+
+
 .fr-clearfix::after {
   clear: both;
   display: block;
